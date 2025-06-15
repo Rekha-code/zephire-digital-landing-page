@@ -7,7 +7,7 @@ const Testimonials = () => {
         className="container mx-auto py-10 lg:px-32 w-full overflow-hidden bg-gray-100 text-primary"
         id="Testimonials"
       >
-        <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
+        <h2 className="text-4xl md:text-5xl font-extrabold text-center mb-16 text-transparent bg-clip-text bg-gradient-to-r from-orange-500 via-pink-500 to-purple-500">
           Testimonials
         </h2>
 

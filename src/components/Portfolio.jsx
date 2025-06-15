@@ -33,7 +33,9 @@ const Portfolio = () => {
         id="Portfolio"
       >
         <div className="max-w-6xl mx-auto text-center">
-          <h2 className="text-3xl md:text-4xl font-bold mb-8">Our Portfolio</h2>
+          <h2 className="text-4xl md:text-5xl font-extrabold text-center mb-16 text-transparent bg-clip-text bg-gradient-to-r from-orange-500 via-pink-500 to-purple-500">
+            Our Portfolio
+          </h2>
           <p className="text-lg mb-8">
             Here you would see our impressive portfolio of projects. Imagine
             stunning web designs, impactful branding, and innovative mobile
