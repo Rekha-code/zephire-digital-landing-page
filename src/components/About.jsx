@@ -8,7 +8,9 @@ const About = () => {
         className="flex flex-col items-center justify-center container mx-auto p-14 md:px-20 lg:px-32 w-full overflow-hidden text-primary"
         id="About"
       >
-        <h2 className="text-3xl md:text-4xl font-bold mb-6">About Us </h2>
+        <h2 className="text-4xl md:text-5xl font-extrabold text-center mb-16 text-transparent bg-clip-text bg-gradient-to-r from-orange-500 via-pink-500 to-purple-500">
+          About Us{" "}
+        </h2>
         <div className="flex flex-col md:flex-row items-center md:items-start md:gap-20">
           <img
             src={assets.about}
