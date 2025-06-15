@@ -42,7 +42,7 @@ const WhyChooseUs = () => {
   ];
 
   return (
-    <section className="py-20 px-4 bg-white text-primary">
+    <section className="py-20 px-4 bg-white text-primary" id="WhyChooseUs">
       <div className="max-w-7xl mx-auto">
         <h2 className="text-4xl md:text-5xl font-extrabold text-center mb-16 text-transparent bg-clip-text bg-gradient-to-r from-orange-500 via-pink-500 to-purple-500">
           Why Choose Zephire Digital?
