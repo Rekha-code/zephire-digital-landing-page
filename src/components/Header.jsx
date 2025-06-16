@@ -18,7 +18,7 @@ const Header = () => {
             Short description of Zephire Digital
           </p>
           <div>
-            <button className="bg-white text-primary px-8 py-3 rounded-full text-lg font-semibold hover:bg-gray-200 transition duration-300 ">
+            <button className="bg-white text-primary px-8 py-3 rounded-full text-lg font-semibold hover:bg-gray-200 transition duration-300 ease-in-out overflow-hidden">
               Book a Free Consultation
             </button>
           </div>
